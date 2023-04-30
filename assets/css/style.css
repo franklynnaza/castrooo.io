@@ -190,19 +190,10 @@ h1,h2,h3,h4,h5,h6{
   z-index: 999;
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url(../images/icons/preloader.svg);
+  background-image: url(../images/Infinity-1s-200px\ \(1\).svg);
 }
 
-.preloader-close{
-  position: fixed;
-  z-index: 999999;
-  color: #fff;
-  padding: 10px 20px;
-  cursor: pointer;
-  right: 0;
-  bottom: 0;
-  font-weight: 600;
-}
+
 
 .preloader.style-two .preloader-close{
 
@@ -217,32 +208,7 @@ h1,h2,h3,h4,h5,h6{
   z-index: 999999;
 }
 
-.loader-wrap .layer-one {
-  position: absolute;
-  left: 0%;
-  top: 0;
-  width: 33.3333%;
-  height: 100%;
-  overflow: hidden;
-}
 
-.loader-wrap .layer-two {
-  position: absolute;
-  left: 33.3333%;
-  top: 0;
-  width: 33.3333%;
-  height: 100%;
-  overflow: hidden;
-}
-
-.loader-wrap .layer-three {
-  position: absolute;
-  left: 66.6666%;
-  top: 0;
-  width: 33.3333%;
-  height: 100%;
-  overflow: hidden;
-}
 
 .loader-wrap .layer .overlay {
   position: absolute;
@@ -250,7 +216,7 @@ h1,h2,h3,h4,h5,h6{
   top: 0;
   width: 100%;
   height: 100%;
-  background: #222;
+  background: #d0d0d0;
 }
 
 
