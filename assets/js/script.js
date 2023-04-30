@@ -9,7 +9,7 @@
 		}
 		TweenMax.to($(".loader-wrap .overlay"), 1.2, {
             force3D: true,
-            left: "100%",
+            top: "100%",
             ease: Expo.easeInOut,
         });
 	}
