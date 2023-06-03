@@ -91,6 +91,9 @@ body {
 .container-fluid{
   padding: 0px;
 }
+.logow{
+  width: 100px;
+}
 
 .large-container{
   position:static;
